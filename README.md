@@ -88,9 +88,11 @@ Higher sparsity indicates stronger compression capability.
 
 ## Testing Data
 
-PRD:
-SNR:
-Latent Sparsity:
+PRD:9.67
+
+SNR:20.28
+
+Latent Sparsity:0.351
 
 # Visualization
 
