@@ -74,6 +74,7 @@ PRD = sqrt( Σ(x − x̂)² / Σx² ) × 100
 ## Signal-to-Noise Ratio (SNR)
 
 SNR measures how well the reconstructed signal matches the original.
+
 SNR = 10 log10 ( Σx² / Σ(x − x̂)² )
 
 ## Sparsity
