@@ -53,7 +53,7 @@ Sparsity is measured as:
 
 To enforce sparsity, a **Kullback-Leibler Divergence (KLD)** penalty is added to the loss function.
 
-Total loss:
+Total loss
 
 # 4. Sliding Window Segmentation
 
@@ -121,4 +121,4 @@ In model this has been converted into TensorFlow Because in python Gradients wer
 
 #Author 
 
-Uday Gutpa
+Uday Gupta
